@@ -1,0 +1,12 @@
+{
+    "name": "EDS",
+    "symbol": "EDS",
+    "description": "EDS Token",
+    "image": "https://api-wallet.endless.link/api/btc/cid-nft-gateway/QmQ55djW23fhfr2AitQtki4zkDu7sJ5CQqLwaNQSDXmJuM",
+    "extensions": {
+        "website": "https://endless.link"
+    },
+    "tags": [
+        "utility-token"
+    ]
+}
