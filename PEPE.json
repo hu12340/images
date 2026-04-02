@@ -1,0 +1,9 @@
+{
+    "name": "PEPE",
+    "symbol": "PEPE",
+    "description": "PEPE Token",
+    "image": "https://api-wallet.endless.link/api/btc/cid-nft-gateway/QmZMTnCNYincJTTtNvxptHGEnB36F336C544Re5Zjo2QLj",
+    "tags": [
+        "utility-token"
+    ]
+}
