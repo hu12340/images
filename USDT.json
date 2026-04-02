@@ -1,0 +1,9 @@
+{
+    "name": "USDT",
+    "symbol": "USDT",
+    "description": "USDT Token",
+    "image": "https://s2.coinmarketcap.com/static/img/coins/64x64/825.png",
+    "tags": [
+        "utility-token"
+    ]
+}
