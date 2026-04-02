@@ -1,0 +1,12 @@
+{
+    "name": "EGG",
+    "symbol": "EGG",
+    "description": "EGG Token",
+    "image": "https://api-wallet.endless.link/api/btc/cid-nft-gateway/QmWo5GkURkeBvwfHKdsrW9nfdoorYhfFF5DouqU3giYwiL",
+    "extensions": {
+        "website": "https://taplink.cc/egg"
+    },
+    "tags": [
+        "utility-token"
+    ]
+}
